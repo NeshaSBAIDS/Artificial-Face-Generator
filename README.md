@@ -10,8 +10,7 @@ The goal of this project is to develop a deep learning model capable of generati
 
 - Implementation of a GAN architecture for generating artificial faces
 - Data preprocessing techniques for face image datasets
-- Training the GAN model using Python and TensorFlow/Keras
-- Evaluation metrics and techniques for assessing the realism and diversity of generated faces
+- Training the GAN model using Python and Keras
 
 ## Dependencies
 

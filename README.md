@@ -16,10 +16,8 @@ The goal of this project is to develop a deep learning model capable of generati
 ## Dependencies
 
 - Python 3.x
-- TensorFlow
 - Keras
-- NumPy
-- Matplotlib
+- html
 
 ## Usage
 
